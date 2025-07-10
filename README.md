@@ -35,9 +35,9 @@ Educator | Developer | Cybersecurity Instructor
 | Portfolio Site         | موقعي الشخصي لعرض خدماتي ومشاريعي           | منشور       |
 
 🔗 روابط:  
-- 🌐 [منصتي](https://your-future-link.com)  
+- 🌐 [منصتي](https://acadamy-chadow.onrender.com/)  
 - 📧 ghaithhasan963@gmail.com  
-- 📱 Telegram: @ghaith_cyber
+- 📱 Telegram: @ghaetg1111
 
 ---
 
@@ -45,7 +45,7 @@ Educator | Developer | Cybersecurity Instructor
 
 ```txt
 Languages:     HTML · CSS · JavaScript · Python · Bash
-Frameworks:    Tailwind · Flask · Frappe · React (مستقبلاً)
+Frameworks:    Tailwind · Flask · Frappe · React 
 Platforms:     GitHub · Netlify · Firebase · Docker
 Tools:         VS Code · Figma · Canva · ChatGPT · Git
 Specialties:   Course Planning · Content Strategy · AI-Driven Education
