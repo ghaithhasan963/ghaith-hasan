@@ -49,3 +49,10 @@ Frameworks:    Tailwind · Flask · Frappe · React
 Platforms:     GitHub · Netlify · Firebase · Docker
 Tools:         VS Code · Figma · Canva · ChatGPT · Git
 Specialties:   Course Planning · Content Strategy · AI-Driven Education
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ghaithhasan963&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithhasan963&layout=compact&theme=tokyonight" /> </div>
+
+🧭 هدفي القادم
+"بناء أكاديمية عربية رقمية تقدم محتوى مجاني ومدفوع، تعليمي ومهاري، ضمن تجربة مستخدم عالية الجودة، تشمل كورسات، مجتمع رقمي، وشهادات إتمام معتمدة."
+
+<h4 align="center">شكراً لزيارتك... المعرفة مشاركة، ونتشاركها معاً ✨</h4>
