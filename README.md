@@ -35,7 +35,7 @@ Educator | Developer | Cybersecurity Instructor
 | Portfolio Site         | موقعي الشخصي لعرض خدماتي ومشاريعي           | منشور       |
 
 🔗 روابط:  
-- 🌐 [منصتي](https://acadamy-chadow.onrender.com/)  
+- 🌐 [منصتي]([https://acadamy-chadow.onrender.com](https://ghaithhasan.onrender.com/)/)  
 - 📧 ghaithhasan963@gmail.com  
 - 📱 Telegram: @ghaetg1111
 
